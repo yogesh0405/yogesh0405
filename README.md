@@ -11,8 +11,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=0d1117&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyogesh0405%2Freadme&labelColor=161b22&style=for-the-badge" alt="Profile views"/>
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-dandawalkar)
@@ -23,6 +21,33 @@
 </div>
 
 <br/>
+
+<!-- What I'm Up To Section with GIF -->
+<table align="center" width="100%">
+<tr>
+<td width="62%" valign="top">
+
+### <img src="https://api.iconify.design/octicon:rocket-16.svg?color=%23A970FF" width="20" height="20" valign="middle"/> &nbsp; What I'm Up To
+
+- <img src="https://api.iconify.design/octicon:cloud-16.svg?color=%2300F2FE" width="16" height="16" valign="middle"/> &nbsp; **Exploring Cloud Architecture** &amp; resilient backend systems
+- <img src="https://api.iconify.design/octicon:database-16.svg?color=%23A970FF" width="16" height="16" valign="middle"/> &nbsp; **Designing Data-Driven Pipelines** &amp; analytics solutions using Python, Pandas &amp; SQL
+- <img src="https://api.iconify.design/octicon:device-mobile-16.svg?color=%2300F2FE" width="16" height="16" valign="middle"/> &nbsp; **Building Scalable Web &amp; Mobile Apps** with clean  architecture
+- <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%23A970FF" width="16" height="16" valign="middle"/> &nbsp; **Integrating Machine Learning Workflows** 
+- <img src="https://api.iconify.design/octicon:shield-check-16.svg?color=%233ECF8E" width="16" height="16" valign="middle"/> &nbsp; **Applying Product Thinking** &amp; system optimization best practices
+- <img src="https://api.iconify.design/octicon:workflow-16.svg?color=%2300F2FE" width="16" height="16" valign="middle"/> &nbsp; **Automating Deployment Pipelines** &amp; containerized infrastructure
+- <img src="https://api.iconify.design/octicon:code-16.svg?color=%23A970FF" width="16" height="16" valign="middle"/> &nbsp; **Crafting High-Performance Code** in  C++, Java, JS, Python &amp; 
+- <img src="https://api.iconify.design/octicon:server-16.svg?color=%2300F2FE" width="16" height="16" valign="middle"/> &nbsp; **Optimizing Relational &amp; Graph Databases** (MySQL, MongoDB, Neo4j)
+- <img src="https://api.iconify.design/octicon:people-16.svg?color=%233ECF8E" width="16" height="16" valign="middle"/> &nbsp; **Open to Collaborations** on high-impact software projects
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer GIF"/>
+
+</td>
+</tr>
+</table>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a970ff,50:00f2fe,100:4facfe&height=4&width=100%" width="100%"/>
 
