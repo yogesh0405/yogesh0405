@@ -1,10 +1,9 @@
-\<div align="center">
+<div align="center">
 
-<!-- Header Banner -->
-<img src="github-hero.png" width="100%" alt="Yogesh Banner"/>
 
 <!-- Header Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:161b22,100:0d1117&height=110&section=header" width="100%"/>
+<!-- Header Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:161b22,100:a970ff&height=110&section=header" width="100%"/>
 
 <h1><b>YOGESH DANDAWALKAR</b></h1>
 
@@ -155,8 +154,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogesh0405&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=a970ff&icon_color=00f2fe&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh0405&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=yogesh0405&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=a970ff&icon_color=00f2fe&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yogesh0405&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" width="40%"/>
 
 <br/><br/>
 
@@ -174,7 +173,7 @@
 
 ## <img src="https://api.iconify.design/octicon:trophy-16.svg?color=%23A970FF" width="22" height="22" valign="middle"/> &nbsp; Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=yogesh0405&theme=darkhub&no-frame=true&row=1&column=7"/>
+<img src="https://my-github-trophy.vercel.app/?username=yogesh0405&theme=darkhub&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -187,10 +186,10 @@
 ## <img src="https://api.iconify.design/octicon:repo-16.svg?color=%2300F2FE" width="22" height="22" valign="middle"/> &nbsp; Featured Projects
 
 <a href="https://github.com/yogesh0405/PlogMate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh0405&repo=PlogMate&theme=dark&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9&icon_color=00f2fe"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yogesh0405&repo=PlogMate&theme=dark&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9&icon_color=00f2fe"/>
 </a>
 <a href="https://github.com/yogesh0405/YogQrra">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh0405&repo=YogQrra&theme=dark&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9&icon_color=00f2fe"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yogesh0405&repo=YogQrra&theme=dark&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9&icon_color=00f2fe"/>
 </a>
 
 </div>
