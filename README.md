@@ -1,7 +1,7 @@
 \<div align="center">
 
 <!-- Header Banner -->
-<img src="assets/header-banner.png" width="100%" alt="Yogesh Banner"/>
+<img src="github-hero.png" width="100%" alt="Yogesh Banner"/>
 
 <!-- Header Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:161b22,100:0d1117&height=110&section=header" width="100%"/>
