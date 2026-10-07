@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="6 languages, 6 databases, 7 cloud and deploy tools, 5 data and ML libraries">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#134e4a"/>
+    </linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#fcd34d"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="2" y="2" width="266" height="166" rx="20" fill="url(#card)" stroke="url(#stroke)" stroke-width="2"/>
+      <text x="135" y="88" font-size="64" font-weight="800" fill="url(#num)">6</text>
+      <text x="135" y="124" font-size="17" font-weight="700" letter-spacing="2" fill="#99f6e4">LANGUAGES</text>
+      <text x="135" y="146" font-size="13" fill="#94a3b8">C · C++ · Java · JS · PHP · Python</text>
+    </g>
+    <g transform="translate(310 0)">
+      <rect x="2" y="2" width="266" height="166" rx="20" fill="url(#card)" stroke="url(#stroke)" stroke-width="2"/>
+      <text x="135" y="88" font-size="64" font-weight="800" fill="url(#num)">6</text>
+      <text x="135" y="124" font-size="17" font-weight="700" letter-spacing="2" fill="#99f6e4">DATABASES</text>
+      <text x="135" y="146" font-size="13" fill="#94a3b8">SQL · NoSQL · Graph</text>
+    </g>
+    <g transform="translate(620 0)">
+      <rect x="2" y="2" width="266" height="166" rx="20" fill="url(#card)" stroke="url(#stroke)" stroke-width="2"/>
+      <text x="135" y="88" font-size="64" font-weight="800" fill="url(#num)">7</text>
+      <text x="135" y="124" font-size="17" font-weight="700" letter-spacing="2" fill="#99f6e4">CLOUD &amp; DEPLOY</text>
+      <text x="135" y="146" font-size="13" fill="#94a3b8">AWS · Docker · Vercel · more</text>
+    </g>
+    <g transform="translate(930 0)">
+      <rect x="2" y="2" width="266" height="166" rx="20" fill="url(#card)" stroke="url(#stroke)" stroke-width="2"/>
+      <text x="135" y="88" font-size="64" font-weight="800" fill="url(#num)">5</text>
+      <text x="135" y="124" font-size="17" font-weight="700" letter-spacing="2" fill="#99f6e4">DATA &amp; ML LIBS</text>
+      <text x="135" y="146" font-size="13" fill="#94a3b8">NumPy · Pandas · scikit-learn</text>
+    </g>
+  </g>
+</svg>

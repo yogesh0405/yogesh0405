@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Yogesh Dandawalkar - Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#b45309"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#fcd34d"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="320" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+
+    <!-- soft glow blobs -->
+    <circle cx="180" cy="70" r="140" fill="#14b8a6" opacity="0.18">
+      <animate attributeName="cx" values="180;260;180" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="90" r="160" fill="#f59e0b" opacity="0.16">
+      <animate attributeName="cx" values="1040;960;1040" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- twinkling dots -->
+    <g fill="#ffffff">
+      <circle cx="90" cy="50" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="30" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="55" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="780" cy="35" r="1.8"><animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="980" cy="60" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1130" cy="30" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- animated waves -->
+    <path d="M0 262 Q150 222 300 262 T600 262 T900 262 T1200 262 T1500 262 T1800 262 T2100 262 T2400 262 V320 H0 Z" fill="#14b8a6" opacity="0.22">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 280 Q150 245 300 280 T600 280 T900 280 T1200 280 T1500 280 T1800 280 T2100 280 T2400 280 V320 H0 Z" fill="#f59e0b" opacity="0.22">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 296 Q150 270 300 296 T600 296 T900 296 T1200 296 T1500 296 T1800 296 T2100 296 T2400 296 V320 H0 Z" fill="#0b1220" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- text -->
+    <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="3" fill="url(#txt)">YOGESH DANDAWALKAR</text>
+    <text x="600" y="173" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="4" fill="#99f6e4">FULL STACK DEVELOPER  •  CLOUD &amp; DATA ENTHUSIAST</text>
+
+    <!-- rotating taglines -->
+    <g font-family="'Courier New', Consolas, monospace" font-size="21" font-weight="700" fill="#fde68a" text-anchor="middle">
+      <text x="600" y="216" opacity="0">&gt; Building scalable web &amp; mobile apps_
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.34;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="216" opacity="0">&gt; Designing cloud &amp; data pipelines_
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.34;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="216" opacity="0">&gt; Turning ideas into scalable products_
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.34;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+</svg>

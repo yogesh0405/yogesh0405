@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#b45309"/>
+      <stop offset="0.45" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#fcd34d"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="200" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="200" fill="url(#bg)"/>
+
+    <path d="M0 40 Q150 10 300 40 T600 40 T900 40 T1200 40 T1500 40 T1800 40 T2100 40 T2400 40 V0 H0 Z" fill="#0b1220" opacity="0.55">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 62 Q150 36 300 62 T600 62 T900 62 T1200 62 T1500 62 T1800 62 T2100 62 T2400 62 V0 H0 Z" fill="#14b8a6" opacity="0.2">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+
+    <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="600" y="305" font-size="1"> </text>
+      <text x="600" y="108" font-size="38" font-weight="800" letter-spacing="2" fill="url(#txt)">THANKS FOR STOPPING BY</text>
+      <text x="600" y="146" font-size="18" font-weight="600" letter-spacing="3" fill="#fde68a">LET'S BUILD SOMETHING GREAT TOGETHER</text>
+    </g>
+  </g>
+</svg>
