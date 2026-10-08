@@ -218,16 +218,28 @@ High-performance code in <b>C++, Java, JavaScript & Python</b>, with system opti
 
 A companion app for plogging, combining jogging with picking up litter, built to make eco-friendly fitness easy and social.
 
+<br/>
+
+<b>Tech Stack:</b> `Java` • `Android` • `Firebase` • `PHP` • `REST API`
+
+<br/>
+
 [![View repo](https://img.shields.io/badge/VIEW%20REPO-0d9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh0405/PlogMate)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="./assets/icons/icon-qr.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; YogQrra
+### <img src="./assets/icons/icon-legal.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; SamvidAi
 
-A QR-focused project that explores generating and using QR codes in a clean, simple application.
+AI-powered legal document assistant that simplifies Indian legal documents using AWS, GPT-4o, OCR, translation, and voice support in multiple Indian languages.
 
-[![View repo](https://img.shields.io/badge/VIEW%20REPO-d97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh0405/YogQrra)
+<br/>
+
+<b>Tech Stack:</b> `AWS` • `AWS Lambda` • `Serverless` • `GPT-4o` • `OCR` • `Translation & Voice AI` • `Indic NLP`
+
+<br/>
+
+[![View repo](https://img.shields.io/badge/VIEW%20REPO-d97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh0405/Samvid-AI)
 
 </td>
 </tr>
@@ -248,12 +260,12 @@ A QR-focused project that explores generating and using QR codes in a clean, sim
 </thead>
 <tbody>
 <tr>
-<td width="33%" align="center"><h1>432</h1><b>commits</b><br/><sub>public repositories since Sep 2025</sub></td>
+<td width="33%" align="center"><h1>433</h1><b>commits</b><br/><sub>public repositories since Sep 2025</sub></td>
 <td width="33%" align="center"><h1>10</h1><b>days</b><br/><sub>Sep 29 - Oct 8</sub></td>
 <td width="33%" align="center"><h1>17</h1><b>days</b><br/><sub>Aug 24 - Sep 9</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱</code><br/><sub>86% of the way to 500 commits</sub></td>
+<td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱</code><br/><sub>87% of the way to 500 commits</sub></td>
 <td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱</code><br/><sub>59% of personal best</sub></td>
 <td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</code><br/><sub>100% of personal best</sub></td>
 </tr>
@@ -261,7 +273,7 @@ A QR-focused project that explores generating and using QR codes in a clean, sim
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-845-0d9488?style=for-the-badge&labelColor=0f172a" alt="CONTRIBUTIONS: 845"/>
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-846-0d9488?style=for-the-badge&labelColor=0f172a" alt="CONTRIBUTIONS: 846"/>
 <img src="https://img.shields.io/badge/ACTIVE%20DAYS-87-d97706?style=for-the-badge&labelColor=0f172a" alt="ACTIVE DAYS: 87"/>
 <img src="https://img.shields.io/badge/BEST%20DAY-84-0d9488?style=for-the-badge&labelColor=0f172a" alt="BEST DAY: 84"/>
 </p>
