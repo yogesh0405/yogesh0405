@@ -23,23 +23,23 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **Full Stack Developer** who enjoys turning ideas into clean, scalable products. I work across the stack, from responsive web and mobile front ends to resilient backends and data pipelines, and I'm currently going deeper into **cloud architecture** and **data-driven systems**.
+I'm a <b>Full Stack Developer</b> who enjoys turning ideas into clean, scalable products. I work across the stack, from responsive web and mobile front ends to resilient backends and data pipelines, and I'm currently going deeper into <b>cloud architecture</b> and <b>data-driven systems</b>.
 
 I care about readable code, sensible architecture, and shipping things that actually work for users.
 
-<img src="./assets/icons/icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **What I'm looking for:** collaborations on high-impact software projects where I can build, learn, and ship.
+<img src="./assets/icons/icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; <b>What I'm looking for:</b> collaborations on high-impact software projects where I can build, learn, and ship.
 
 </td>
 <td width="45%" valign="top">
 
 | | |
 |:--|:--|
-| <img src="./assets/icons/icon-role.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Role** | Full Stack Developer |
-| <img src="./assets/icons/icon-location.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Location** | India (UTC +05:30) |
-| <img src="./assets/icons/icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Focus** | Scalable web & mobile |
-| <img src="./assets/icons/icon-exploring.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Exploring** | Cloud & data systems |
-| <img src="./assets/icons/icon-approach.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Approach** | Clean code & product thinking |
-| <img src="./assets/icons/icon-status.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Status** | Open to collaborate |
+| <img src="./assets/icons/icon-role.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; <b>Role</b> | Full Stack Developer |
+| <img src="./assets/icons/icon-location.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; <b>Location</b> | India (UTC +05:30) |
+| <img src="./assets/icons/icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; <b>Focus</b> | Scalable web & mobile |
+| <img src="./assets/icons/icon-exploring.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; <b>Exploring</b> | Cloud & data systems |
+| <img src="./assets/icons/icon-approach.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; <b>Approach</b> | Clean code & product thinking |
+| <img src="./assets/icons/icon-status.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; <b>Status</b> | Open to collaborate |
 
 </td>
 </tr>
@@ -71,19 +71,19 @@ const yogesh = {
 <td width="33%" valign="top" align="center">
 
 ### <img src="./assets/icons/icon-cloud.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Cloud & Backend
-Resilient backend systems and cloud architecture on **AWS**, **Firebase** and containerized infrastructure with **Docker**.
+Resilient backend systems and cloud architecture on <b>AWS</b>, <b>Firebase</b> and containerized infrastructure with <b>Docker</b>.
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### <img src="./assets/icons/icon-data.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Data & ML
-Data-driven pipelines and analytics using **Python, Pandas & SQL**, plus integrating **machine learning** workflows.
+Data-driven pipelines and analytics using <b>Python, Pandas & SQL</b>, plus integrating <b>machine learning</b> workflows.
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### <img src="./assets/icons/icon-mobile.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Web & Mobile
-Scalable web and mobile applications built with **clean architecture** and product thinking.
+Scalable web and mobile applications built with <b>clean architecture</b> and product thinking.
 
 </td>
 </tr>
@@ -91,19 +91,19 @@ Scalable web and mobile applications built with **clean architecture** and produ
 <td width="33%" valign="top" align="center">
 
 ### <img src="./assets/icons/icon-database.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Databases
-Optimizing **relational and graph databases**: MySQL, MongoDB, Neo4j and SQL Server.
+Optimizing <b>relational and graph databases</b>: MySQL, MongoDB, Neo4j and SQL Server.
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### <img src="./assets/icons/icon-devops.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; DevOps
-Automating **deployment pipelines** across Vercel, Netlify and Render, with containers for consistency.
+Automating <b>deployment pipelines</b> across Vercel, Netlify and Render, with containers for consistency.
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### <img src="./assets/icons/icon-performance.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Performance
-High-performance code in **C++, Java, JavaScript & Python**, with system optimization best practices.
+High-performance code in <b>C++, Java, JavaScript & Python</b>, with system optimization best practices.
 
 </td>
 </tr>
@@ -235,6 +235,45 @@ A QR-focused project that explores generating and using QR codes in a clean, sim
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
+<h2 align="center"><img src="./assets/icons/icon-activity.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; GitHub Stats</h2>
+
+<!--STATS:START-->
+<table width="100%">
+<thead>
+<tr>
+<th width="33%" align="center"><img src="./assets/icons/icon-commit.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; TOTAL COMMITS</th>
+<th width="33%" align="center"><img src="./assets/icons/icon-streak.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; CURRENT STREAK</th>
+<th width="33%" align="center"><img src="./assets/icons/icon-trophy.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; LONGEST STREAK</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><h1>431</h1><b>commits</b><br/><sub>public repositories since Sep 2025</sub></td>
+<td align="center"><h1>10</h1><b>days</b><br/><sub>Sep 29 - Oct 8</sub></td>
+<td align="center"><h1>17</h1><b>days</b><br/><sub>Aug 24 - Sep 9</sub></td>
+</tr>
+<tr>
+<td align="center"><code>▰▰▰▰▰▰▰▰▰▰▱▱</code><br/><sub>86% of the way to 500 commits</sub></td>
+<td align="center"><code>▰▰▰▰▰▰▰▱▱▱▱▱</code><br/><sub>59% of personal best</sub></td>
+<td align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰</code><br/><sub>personal best</sub></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><sub><b>LAST 30 DAYS</b> &nbsp;|&nbsp; 178 contributions on 26 active days</sub><br/><code>▂▁▄▂▂▂▁▂▂▁▂▂▄▅▂▆▂█▅▁▂▂▃▂▄▅▂▃▂▂</code></td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-844-0d9488?style=for-the-badge&labelColor=0f172a" alt="CONTRIBUTIONS: 844"/>
+<img src="https://img.shields.io/badge/ACTIVE%20DAYS-87-d97706?style=for-the-badge&labelColor=0f172a" alt="ACTIVE DAYS: 87"/>
+<img src="https://img.shields.io/badge/BEST%20DAY-84-0d9488?style=for-the-badge&labelColor=0f172a" alt="BEST DAY: 84"/>
+</p>
+
+<p align="center"><sub>Auto-updated on Oct 8, 2026</sub></p>
+<!--STATS:END-->
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 <h2 align="center"><img src="./assets/icons/icon-principles.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Work</h2>
 
 <table>
@@ -243,7 +282,7 @@ A QR-focused project that explores generating and using QR codes in a clean, sim
 
 <img src="./assets/icons/icon-languages.svg" width="26" height="26" alt=""/>
 <br/>
-**Clean Code**
+<b>Clean Code</b>
 <br/>
 Readable, maintainable and well structured
 
@@ -252,7 +291,7 @@ Readable, maintainable and well structured
 
 <img src="./assets/icons/icon-scale.svg" width="26" height="26" alt=""/>
 <br/>
-**Scalability**
+<b>Scalability</b>
 <br/>
 Systems designed to grow with users
 
@@ -261,7 +300,7 @@ Systems designed to grow with users
 
 <img src="./assets/icons/icon-automation.svg" width="26" height="26" alt=""/>
 <br/>
-**Automation**
+<b>Automation</b>
 <br/>
 Pipelines that remove repetitive work
 
@@ -270,7 +309,7 @@ Pipelines that remove repetitive work
 
 <img src="./assets/icons/icon-approach.svg" width="26" height="26" alt=""/>
 <br/>
-**Product Thinking**
+<b>Product Thinking</b>
 <br/>
 Building what people actually need
 
