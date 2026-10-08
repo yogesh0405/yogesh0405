@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Yogesh Dandawalkar - Full Stack Developer | Cloud & Data Enthusiast"/>
+<img src="./assets/header.svg" width="100%" alt="Yogesh Dandawalkar - Full Stack Developer | Cloud & Data Enthusiast"/>
 
 <br/>
 
@@ -15,9 +15,9 @@
 
 </div>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./icon-about.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; About Me</h2>
+<h2 align="center"><img src="./assets/icons/icon-about.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; About Me</h2>
 
 <table>
 <tr>
@@ -27,19 +27,19 @@ I'm a **Full Stack Developer** who enjoys turning ideas into clean, scalable pro
 
 I care about readable code, sensible architecture, and shipping things that actually work for users.
 
-<img src="./icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **What I'm looking for:** collaborations on high-impact software projects where I can build, learn, and ship.
+<img src="./assets/icons/icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **What I'm looking for:** collaborations on high-impact software projects where I can build, learn, and ship.
 
 </td>
 <td width="45%" valign="top">
 
 | | |
 |:--|:--|
-| <img src="./icon-role.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Role** | Full Stack Developer |
-| <img src="./icon-location.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Location** | India (UTC +05:30) |
-| <img src="./icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Focus** | Scalable web & mobile |
-| <img src="./icon-exploring.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Exploring** | Cloud & data systems |
-| <img src="./icon-approach.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Approach** | Clean code & product thinking |
-| <img src="./icon-status.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Status** | Open to collaborate |
+| <img src="./assets/icons/icon-role.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Role** | Full Stack Developer |
+| <img src="./assets/icons/icon-location.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Location** | India (UTC +05:30) |
+| <img src="./assets/icons/icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Focus** | Scalable web & mobile |
+| <img src="./assets/icons/icon-exploring.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Exploring** | Cloud & data systems |
+| <img src="./assets/icons/icon-approach.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Approach** | Clean code & product thinking |
+| <img src="./assets/icons/icon-status.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Status** | Open to collaborate |
 
 </td>
 </tr>
@@ -56,33 +56,33 @@ const yogesh = {
 };
 ```
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./icon-glance.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; At a Glance</h2>
+<h2 align="center"><img src="./assets/icons/icon-glance.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; At a Glance</h2>
 
-<img src="./stats.svg" width="100%" alt="6 languages, 6 databases, 7 cloud and deploy tools, 5 data and ML libraries"/>
+<img src="./assets/stats.svg" width="100%" alt="6 languages, 6 databases, 7 cloud and deploy tools, 5 data and ML libraries"/>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./icon-whatido.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; What I Do</h2>
+<h2 align="center"><img src="./assets/icons/icon-whatido.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; What I Do</h2>
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-### <img src="./icon-cloud.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Cloud & Backend
+### <img src="./assets/icons/icon-cloud.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Cloud & Backend
 Resilient backend systems and cloud architecture on **AWS**, **Firebase** and containerized infrastructure with **Docker**.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### <img src="./icon-data.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Data & ML
+### <img src="./assets/icons/icon-data.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Data & ML
 Data-driven pipelines and analytics using **Python, Pandas & SQL**, plus integrating **machine learning** workflows.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### <img src="./icon-mobile.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Web & Mobile
+### <img src="./assets/icons/icon-mobile.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Web & Mobile
 Scalable web and mobile applications built with **clean architecture** and product thinking.
 
 </td>
@@ -90,38 +90,38 @@ Scalable web and mobile applications built with **clean architecture** and produ
 <tr>
 <td width="33%" valign="top" align="center">
 
-### <img src="./icon-database.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Databases
+### <img src="./assets/icons/icon-database.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Databases
 Optimizing **relational and graph databases**: MySQL, MongoDB, Neo4j and SQL Server.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### <img src="./icon-devops.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; DevOps
+### <img src="./assets/icons/icon-devops.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; DevOps
 Automating **deployment pipelines** across Vercel, Netlify and Render, with containers for consistency.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### <img src="./icon-performance.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Performance
+### <img src="./assets/icons/icon-performance.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Performance
 High-performance code in **C++, Java, JavaScript & Python**, with system optimization best practices.
 
 </td>
 </tr>
 </table>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./icon-build.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Build</h2>
+<h2 align="center"><img src="./assets/icons/icon-build.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Build</h2>
 
-<img src="./workflow.svg" width="100%" alt="Workflow: Idea, Design, Build, Containerize, Deploy, Iterate"/>
+<img src="./assets/workflow.svg" width="100%" alt="Workflow: Idea, Design, Build, Containerize, Deploy, Iterate"/>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./icon-stack.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Tech Stack</h2>
+<h2 align="center"><img src="./assets/icons/icon-stack.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Tech Stack</h2>
 
 <table>
 <tr>
-<td width="20%" align="right" valign="middle"><b><img src="./icon-languages.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Languages</b></td>
+<td width="20%" align="right" valign="middle"><b><img src="./assets/icons/icon-languages.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Languages</b></td>
 <td>
 
 ![C](https://img.shields.io/badge/C-0d9488?style=for-the-badge&logo=c&logoColor=white)
@@ -134,7 +134,7 @@ High-performance code in **C++, Java, JavaScript & Python**, with system optimiz
 </td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b><img src="./icon-web.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Web</b></td>
+<td align="right" valign="middle"><b><img src="./assets/icons/icon-web.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Web</b></td>
 <td>
 
 ![HTML5](https://img.shields.io/badge/HTML5-0e7490?style=for-the-badge&logo=html5&logoColor=white)
@@ -144,7 +144,7 @@ High-performance code in **C++, Java, JavaScript & Python**, with system optimiz
 </td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b><img src="./icon-cloud.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Cloud & Deploy</b></td>
+<td align="right" valign="middle"><b><img src="./assets/icons/icon-cloud.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Cloud & Deploy</b></td>
 <td>
 
 ![AWS](https://img.shields.io/badge/AWS-d97706?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -158,7 +158,7 @@ High-performance code in **C++, Java, JavaScript & Python**, with system optimiz
 </td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b><img src="./icon-database.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Databases</b></td>
+<td align="right" valign="middle"><b><img src="./assets/icons/icon-database.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Databases</b></td>
 <td>
 
 ![MySQL](https://img.shields.io/badge/MySQL-059669?style=for-the-badge&logo=mysql&logoColor=white)
@@ -171,7 +171,7 @@ High-performance code in **C++, Java, JavaScript & Python**, with system optimiz
 </td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b><img src="./icon-analytics.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Data & ML</b></td>
+<td align="right" valign="middle"><b><img src="./assets/icons/icon-analytics.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Data & ML</b></td>
 <td>
 
 ![NumPy](https://img.shields.io/badge/NumPy-0f766e?style=for-the-badge&logo=numpy&logoColor=white)
@@ -183,7 +183,7 @@ High-performance code in **C++, Java, JavaScript & Python**, with system optimiz
 </td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b><img src="./icon-design.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Design</b></td>
+<td align="right" valign="middle"><b><img src="./assets/icons/icon-design.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Design</b></td>
 <td>
 
 ![Adobe](https://img.shields.io/badge/Adobe-b45309?style=for-the-badge&logo=adobe&logoColor=white)
@@ -193,7 +193,7 @@ High-performance code in **C++, Java, JavaScript & Python**, with system optimiz
 </td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b><img src="./icon-tools.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Tools</b></td>
+<td align="right" valign="middle"><b><img src="./assets/icons/icon-tools.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Tools</b></td>
 <td>
 
 ![Git](https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white)
@@ -206,15 +206,15 @@ High-performance code in **C++, Java, JavaScript & Python**, with system optimiz
 </tr>
 </table>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./icon-projects.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Featured Projects</h2>
+<h2 align="center"><img src="./assets/icons/icon-projects.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./icon-leaf.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; PlogMate
+### <img src="./assets/icons/icon-leaf.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; PlogMate
 
 A companion app for plogging, combining jogging with picking up litter, built to make eco-friendly fitness easy and social.
 
@@ -223,7 +223,7 @@ A companion app for plogging, combining jogging with picking up litter, built to
 </td>
 <td width="50%" valign="top">
 
-### <img src="./icon-qr.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; YogQrra
+### <img src="./assets/icons/icon-qr.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; YogQrra
 
 A QR-focused project that explores generating and using QR codes in a clean, simple application.
 
@@ -233,15 +233,15 @@ A QR-focused project that explores generating and using QR codes in a clean, sim
 </tr>
 </table>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./icon-principles.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Work</h2>
+<h2 align="center"><img src="./assets/icons/icon-principles.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Work</h2>
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
 
-<img src="./icon-languages.svg" width="26" height="26" alt=""/>
+<img src="./assets/icons/icon-languages.svg" width="26" height="26" alt=""/>
 <br/>
 **Clean Code**
 <br/>
@@ -250,7 +250,7 @@ Readable, maintainable and well structured
 </td>
 <td width="25%" align="center" valign="top">
 
-<img src="./icon-scale.svg" width="26" height="26" alt=""/>
+<img src="./assets/icons/icon-scale.svg" width="26" height="26" alt=""/>
 <br/>
 **Scalability**
 <br/>
@@ -259,7 +259,7 @@ Systems designed to grow with users
 </td>
 <td width="25%" align="center" valign="top">
 
-<img src="./icon-automation.svg" width="26" height="26" alt=""/>
+<img src="./assets/icons/icon-automation.svg" width="26" height="26" alt=""/>
 <br/>
 **Automation**
 <br/>
@@ -268,7 +268,7 @@ Pipelines that remove repetitive work
 </td>
 <td width="25%" align="center" valign="top">
 
-<img src="./icon-approach.svg" width="26" height="26" alt=""/>
+<img src="./assets/icons/icon-approach.svg" width="26" height="26" alt=""/>
 <br/>
 **Product Thinking**
 <br/>
@@ -278,9 +278,9 @@ Building what people actually need
 </tr>
 </table>
 
-<img src="./divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./icon-connect.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Let's Connect</h2>
+<h2 align="center"><img src="./assets/icons/icon-connect.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Let's Connect</h2>
 
 <div align="center">
 
@@ -297,6 +297,6 @@ If you have an idea worth building, let's talk.
 
 <br/>
 
-<img src="./footer.svg" width="100%" alt="Thanks for stopping by - let's build something great together"/>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by - let's build something great together"/>
 
 </div>
