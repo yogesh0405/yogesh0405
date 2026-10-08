@@ -1,240 +1,302 @@
 <div align="center">
 
-
-<!-- Header Wave Animation -->
-<!-- Header Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:161b22,100:a970ff&height=110&section=header" width="100%"/>
-
-<h1><b>YOGESH DANDAWALKAR</b></h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=A970FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+%26+Data+Enthusiast;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG"/>
-
-<br/>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-dandawalkar)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshdand04@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh0405)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yogeshh_1.9)
-
-</div>
-
-<br/>
-
-<!-- What I'm Up To Section with GIF -->
-<table align="center" width="100%">
-<tr>
-<td width="62%" valign="top">
-
-### <img src="https://api.iconify.design/octicon:rocket-16.svg?color=%23A970FF" width="20" height="20" valign="middle"/> &nbsp; What I'm Up To
-
-- <img src="https://api.iconify.design/octicon:cloud-16.svg?color=%2300F2FE" width="16" height="16" valign="middle"/> &nbsp; **Exploring Cloud Architecture** &amp; resilient backend systems
-- <img src="https://api.iconify.design/octicon:database-16.svg?color=%23A970FF" width="16" height="16" valign="middle"/> &nbsp; **Designing Data-Driven Pipelines** &amp; analytics solutions using Python, Pandas &amp; SQL
-- <img src="https://api.iconify.design/octicon:device-mobile-16.svg?color=%2300F2FE" width="16" height="16" valign="middle"/> &nbsp; **Building Scalable Web &amp; Mobile Apps** with clean  architecture
-- <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%23A970FF" width="16" height="16" valign="middle"/> &nbsp; **Integrating Machine Learning Workflows** 
-- <img src="https://api.iconify.design/octicon:shield-check-16.svg?color=%233ECF8E" width="16" height="16" valign="middle"/> &nbsp; **Applying Product Thinking** &amp; system optimization best practices
-- <img src="https://api.iconify.design/octicon:workflow-16.svg?color=%2300F2FE" width="16" height="16" valign="middle"/> &nbsp; **Automating Deployment Pipelines** &amp; containerized infrastructure
-- <img src="https://api.iconify.design/octicon:code-16.svg?color=%23A970FF" width="16" height="16" valign="middle"/> &nbsp; **Crafting High-Performance Code** in  C++, Java, JS, Python &amp; 
-- <img src="https://api.iconify.design/octicon:server-16.svg?color=%2300F2FE" width="16" height="16" valign="middle"/> &nbsp; **Optimizing Relational &amp; Graph Databases** (MySQL, MongoDB, Neo4j)
-- <img src="https://api.iconify.design/octicon:people-16.svg?color=%233ECF8E" width="16" height="16" valign="middle"/> &nbsp; **Open to Collaborations** on high-impact software projects
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer GIF"/>
-
-</td>
-</tr>
-</table>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a970ff,50:00f2fe,100:4facfe&height=4&width=100%" width="100%"/>
-
-<div align="center">
-
-### <img src="https://api.iconify.design/octicon:terminal-16.svg?color=%23A970FF" width="20" height="20" valign="middle"/> &nbsp; *Building clean, scalable web & mobile applications — currently exploring cloud architecture and data-driven systems.*
-
-</div>
-
-<br/>
-
-<!-- Premium Modern UI Dashboard Cards -->
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<table width="100%">
-<thead>
-<tr>
-  <th align="left" style="background-color: #161b22;">
-    <img src="https://api.iconify.design/octicon:person-16.svg?color=%23A970FF" width="18" height="18" valign="middle"/>
-    &nbsp; <b>PROFILE OVERVIEW</b>
-  </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="padding: 10px 4px;">
-
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-161B22?style=for-the-badge&logo=octicon-code-16&logoColor=A970FF&labelColor=0D1117" width="100%" alt="Role"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/LOCATION-India%20(UTC%20%2B05%3A30)-161B22?style=for-the-badge&logo=octicon-location-16&logoColor=00F2FE&labelColor=0D1117" width="100%" alt="Location"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/FOCUS-Scalable%20Web%20%26%20Mobile-161B22?style=for-the-badge&logo=octicon-device-mobile-16&logoColor=A970FF&labelColor=0D1117" width="100%" alt="Focus"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/CURRENTLY-Cloud%20%26%20Data%20Systems-161B22?style=for-the-badge&logo=octicon-server-16&logoColor=00F2FE&labelColor=0D1117" width="100%" alt="Currently"/>
-
-</td>
-</tr>
-</tbody>
-</table>
-
-</td>
-<td width="50%" valign="top">
-
-<table width="100%">
-<thead>
-<tr>
-  <th align="left" style="background-color: #161b22;">
-    <img src="https://api.iconify.design/octicon:zap-16.svg?color=%2300F2FE" width="18" height="18" valign="middle"/>
-    &nbsp; <b>QUICK SNAPSHOT</b>
-  </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="padding: 10px 4px;">
-
-<img src="https://img.shields.io/badge/LANGUAGES-C%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20JS%20%7C%20Python%20%7C%20PHP-161B22?style=for-the-badge&logo=octicon-terminal-16&logoColor=A970FF&labelColor=0D1117" width="100%" alt="Languages"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/INTERESTS-Cloud%20%7C%20Data%20Eng%20%7C%20Systems-161B22?style=for-the-badge&logo=octicon-globe-16&logoColor=00F2FE&labelColor=0D1117" width="100%" alt="Interests"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/APPROACH-Clean%20Code%20%26%20Product-161B22?style=for-the-badge&logo=octicon-light-bulb-16&logoColor=A970FF&labelColor=0D1117" width="100%" alt="Approach"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/STATUS-Open%20To%20Collaboration-161B22?style=for-the-badge&logo=octicon-check-circle-16&logoColor=3ECF8E&labelColor=0D1117" width="100%" alt="Status"/>
-
-</td>
-</tr>
-</tbody>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## <img src="https://api.iconify.design/octicon:tools-16.svg?color=%23A970FF" width="22" height="22" valign="middle"/> &nbsp; Tech Stack
-
-</div>
-
-<table align="center" width="100%">
-<tr><td width="22%" align="right" valign="top"><b>Languages</b></td><td width="78%">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" valign="top"><b>Web &amp; Frontend</b></td><td>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" valign="top"><b>Cloud &amp; Deployment</b></td><td>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" valign="top"><b>Databases</b></td><td>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" valign="top"><b>Data &amp; ML</b></td><td>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" valign="top"><b>Design</b></td><td>
-
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" valign="top"><b>Tools</b></td><td>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-
-</td></tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a970ff,50:00f2fe,100:4facfe&height=4&width=100%" width="100%"/>
-
-<div align="center">
-
-## <img src="https://api.iconify.design/octicon:graph-16.svg?color=%2300F2FE" width="22" height="22" valign="middle"/> &nbsp; GitHub Analytics
-
-<br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=yogesh0405&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=a970ff&icon_color=00f2fe&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yogesh0405&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" width="40%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=yogesh0405&theme=dark&hide_border=true&background=0d1117&stroke=a970ff&ring=00f2fe&fire=a970ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="65%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh0405&theme=github-compact&hide_border=true&bg_color=0d1117&color=00f2fe&line=a970ff&point=ffffff&title_color=a970ff" width="90%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## <img src="https://api.iconify.design/octicon:trophy-16.svg?color=%23A970FF" width="22" height="22" valign="middle"/> &nbsp; Achievements
-
-<img src="https://my-github-trophy.vercel.app/?username=yogesh0405&theme=darkhub&no-frame=true&row=1&column=7"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a970ff,50:00f2fe,100:4facfe&height=4&width=100%" width="100%"/>
-
-<div align="center">
-
-## <img src="https://api.iconify.design/octicon:repo-16.svg?color=%2300F2FE" width="22" height="22" valign="middle"/> &nbsp; Featured Projects
-
-<a href="https://github.com/yogesh0405/PlogMate">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yogesh0405&repo=PlogMate&theme=dark&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9&icon_color=00f2fe"/>
-</a>
-<a href="https://github.com/yogesh0405/YogQrra">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yogesh0405&repo=YogQrra&theme=dark&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9&icon_color=00f2fe"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## <img src="https://api.iconify.design/octicon:people-16.svg?color=%23A970FF" width="22" height="22" valign="middle"/> &nbsp; Let's Connect
-
-I'm always open to interesting conversations, collaborations, and opportunities — feel free to reach out.
+<img src="./header.svg" width="100%" alt="Yogesh Dandawalkar - Full Stack Developer | Cloud & Data Enthusiast"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-dandawalkar)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshdand04@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yogeshh_1.9)
+[![Email](https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshdand04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh0405)
+[![Instagram](https://img.shields.io/badge/Instagram-d97706?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yogeshh_1.9)
 
-<br/><br/>
+![Role](https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-0d9488?style=flat-square&labelColor=0f172a)
+![Location](https://img.shields.io/badge/LOCATION-India-f59e0b?style=flat-square&labelColor=0f172a)
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Collaboration-16a34a?style=flat-square&labelColor=0f172a)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:161b22,100:a970ff&height=140&section=footer" width="100%"/>
+</div>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2 align="center"><img src="./icon-about.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; About Me</h2>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm a **Full Stack Developer** who enjoys turning ideas into clean, scalable products. I work across the stack, from responsive web and mobile front ends to resilient backends and data pipelines, and I'm currently going deeper into **cloud architecture** and **data-driven systems**.
+
+I care about readable code, sensible architecture, and shipping things that actually work for users.
+
+<img src="./icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **What I'm looking for:** collaborations on high-impact software projects where I can build, learn, and ship.
+
+</td>
+<td width="45%" valign="top">
+
+| | |
+|:--|:--|
+| <img src="./icon-role.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Role** | Full Stack Developer |
+| <img src="./icon-location.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Location** | India (UTC +05:30) |
+| <img src="./icon-focus.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Focus** | Scalable web & mobile |
+| <img src="./icon-exploring.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Exploring** | Cloud & data systems |
+| <img src="./icon-approach.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Approach** | Clean code & product thinking |
+| <img src="./icon-status.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; **Status** | Open to collaborate |
+
+</td>
+</tr>
+</table>
+
+```js
+const yogesh = {
+  role: "Full Stack Developer",
+  languages: ["C", "C++", "Java", "JavaScript", "Python", "PHP"],
+  currentlyExploring: ["Cloud Architecture", "Data Pipelines", "ML Workflows"],
+  databases: ["MySQL", "MongoDB", "Neo4j", "SQLite", "Supabase"],
+  philosophy: "Clean code, scalable systems, product-first thinking",
+  openTo: "High-impact software collaborations",
+};
+```
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2 align="center"><img src="./icon-glance.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; At a Glance</h2>
+
+<img src="./stats.svg" width="100%" alt="6 languages, 6 databases, 7 cloud and deploy tools, 5 data and ML libraries"/>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2 align="center"><img src="./icon-whatido.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; What I Do</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### <img src="./icon-cloud.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Cloud & Backend
+Resilient backend systems and cloud architecture on **AWS**, **Firebase** and containerized infrastructure with **Docker**.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### <img src="./icon-data.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Data & ML
+Data-driven pipelines and analytics using **Python, Pandas & SQL**, plus integrating **machine learning** workflows.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### <img src="./icon-mobile.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Web & Mobile
+Scalable web and mobile applications built with **clean architecture** and product thinking.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### <img src="./icon-database.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Databases
+Optimizing **relational and graph databases**: MySQL, MongoDB, Neo4j and SQL Server.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### <img src="./icon-devops.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; DevOps
+Automating **deployment pipelines** across Vercel, Netlify and Render, with containers for consistency.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### <img src="./icon-performance.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; Performance
+High-performance code in **C++, Java, JavaScript & Python**, with system optimization best practices.
+
+</td>
+</tr>
+</table>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2 align="center"><img src="./icon-build.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Build</h2>
+
+<img src="./workflow.svg" width="100%" alt="Workflow: Idea, Design, Build, Containerize, Deploy, Iterate"/>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2 align="center"><img src="./icon-stack.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Tech Stack</h2>
+
+<table>
+<tr>
+<td width="20%" align="right" valign="middle"><b><img src="./icon-languages.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Languages</b></td>
+<td>
+
+![C](https://img.shields.io/badge/C-0d9488?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d9488?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d9488?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d9488?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0d9488?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d9488?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b><img src="./icon-web.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Web</b></td>
+<td>
+
+![HTML5](https://img.shields.io/badge/HTML5-0e7490?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0e7490?style=for-the-badge&logo=css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0e7490?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b><img src="./icon-cloud.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Cloud & Deploy</b></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-d97706?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-d97706?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-d97706?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-d97706?style=for-the-badge&logo=apache&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-d97706?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-d97706?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-d97706?style=for-the-badge&logo=render&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b><img src="./icon-database.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Databases</b></td>
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-059669?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-059669?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-059669?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-059669?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-059669?style=for-the-badge&logo=neo4j&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-059669?style=for-the-badge&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b><img src="./icon-analytics.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Data & ML</b></td>
+<td>
+
+![NumPy](https://img.shields.io/badge/NumPy-0f766e?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0f766e?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0f766e?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f766e?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0f766e?style=for-the-badge&logo=scipy&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b><img src="./icon-design.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Design</b></td>
+<td>
+
+![Adobe](https://img.shields.io/badge/Adobe-b45309?style=for-the-badge&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-b45309?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-b45309?style=for-the-badge&logo=canva&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b><img src="./icon-tools.svg" width="18" height="18" align="absmiddle" alt=""/>&nbsp; Tools</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-475569?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-475569?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-475569?style=for-the-badge&logo=npm&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2 align="center"><img src="./icon-projects.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="./icon-leaf.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; PlogMate
+
+A companion app for plogging, combining jogging with picking up litter, built to make eco-friendly fitness easy and social.
+
+[![View repo](https://img.shields.io/badge/VIEW%20REPO-0d9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh0405/PlogMate)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="./icon-qr.svg" width="24" height="24" align="absmiddle" alt=""/>&nbsp; YogQrra
+
+A QR-focused project that explores generating and using QR codes in a clean, simple application.
+
+[![View repo](https://img.shields.io/badge/VIEW%20REPO-d97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh0405/YogQrra)
+
+</td>
+</tr>
+</table>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2 align="center"><img src="./icon-principles.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Work</h2>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+<img src="./icon-languages.svg" width="26" height="26" alt=""/>
+<br/>
+**Clean Code**
+<br/>
+Readable, maintainable and well structured
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="./icon-scale.svg" width="26" height="26" alt=""/>
+<br/>
+**Scalability**
+<br/>
+Systems designed to grow with users
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="./icon-automation.svg" width="26" height="26" alt=""/>
+<br/>
+**Automation**
+<br/>
+Pipelines that remove repetitive work
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="./icon-approach.svg" width="26" height="26" alt=""/>
+<br/>
+**Product Thinking**
+<br/>
+Building what people actually need
+
+</td>
+</tr>
+</table>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2 align="center"><img src="./icon-connect.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Let's Connect</h2>
+
+<div align="center">
+
+I'm always open to interesting conversations, collaborations and opportunities.
+<br/>
+If you have an idea worth building, let's talk.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-dandawalkar)
+[![Email](https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshdand04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh0405)
+[![Instagram](https://img.shields.io/badge/Instagram-d97706?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yogeshh_1.9)
+
+<br/>
+
+<img src="./footer.svg" width="100%" alt="Thanks for stopping by - let's build something great together"/>
 
 </div>
