@@ -260,20 +260,15 @@ AI-powered legal document assistant that simplifies Indian legal documents using
 </thead>
 <tbody>
 <tr>
-<td width="33%" align="center"><h1>433</h1><b>commits</b><br/><sub>public repositories since Sep 2025</sub></td>
+<td width="33%" align="center"><h1>434</h1><b>commits</b><br/><sub>public repositories since Sep 2025</sub></td>
 <td width="33%" align="center"><h1>10</h1><b>days</b><br/><sub>Sep 29 - Oct 8</sub></td>
 <td width="33%" align="center"><h1>17</h1><b>days</b><br/><sub>Aug 24 - Sep 9</sub></td>
-</tr>
-<tr>
-<td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱</code><br/><sub>87% of the way to 500 commits</sub></td>
-<td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱</code><br/><sub>59% of personal best</sub></td>
-<td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</code><br/><sub>100% of personal best</sub></td>
 </tr>
 </tbody>
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-846-0d9488?style=for-the-badge&labelColor=0f172a" alt="CONTRIBUTIONS: 846"/>
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-847-0d9488?style=for-the-badge&labelColor=0f172a" alt="CONTRIBUTIONS: 847"/>
 <img src="https://img.shields.io/badge/ACTIVE%20DAYS-87-d97706?style=for-the-badge&labelColor=0f172a" alt="ACTIVE DAYS: 87"/>
 <img src="https://img.shields.io/badge/BEST%20DAY-84-0d9488?style=for-the-badge&labelColor=0f172a" alt="BEST DAY: 84"/>
 </p>

@@ -150,11 +150,6 @@ def build_block(days, commits, since, cur, longest, updated, today):
 <td width="33%" align="center"><h1>{c_len}</h1><b>days</b><br/><sub>{fmt_range(c_a, c_b)}</sub></td>
 <td width="33%" align="center"><h1>{l_len}</h1><b>days</b><br/><sub>{fmt_range(l_a, l_b)}</sub></td>
 </tr>
-<tr>
-<td width="33%" align="center"><code>{bar(commit_frac)}</code><br/><sub>{round(commit_frac * 100)}% of the way to {nxt:,} commits</sub></td>
-<td width="33%" align="center"><code>{bar(streak_frac)}</code><br/><sub>{streak_pct}% of personal best</sub></td>
-<td width="33%" align="center"><code>{bar(1.0)}</code><br/><sub>100% of personal best</sub></td>
-</tr>
 </tbody>
 </table>
 
