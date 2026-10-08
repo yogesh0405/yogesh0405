@@ -241,30 +241,27 @@ A QR-focused project that explores generating and using QR codes in a clean, sim
 <table width="100%">
 <thead>
 <tr>
-<th width="33%" align="center"><img src="./assets/icons/icon-commit.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; TOTAL COMMITS</th>
-<th width="33%" align="center"><img src="./assets/icons/icon-streak.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; CURRENT STREAK</th>
-<th width="33%" align="center"><img src="./assets/icons/icon-trophy.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; LONGEST STREAK</th>
+<th width="33%" align="center"><img src="./assets/icons/icon-commit.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; TOTAL COMMITS<br/><img src="./assets/spacer.svg" width="260" height="1" alt=""/></th>
+<th width="33%" align="center"><img src="./assets/icons/icon-streak.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; CURRENT STREAK<br/><img src="./assets/spacer.svg" width="260" height="1" alt=""/></th>
+<th width="33%" align="center"><img src="./assets/icons/icon-trophy.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; LONGEST STREAK<br/><img src="./assets/spacer.svg" width="260" height="1" alt=""/></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><h1>431</h1><b>commits</b><br/><sub>public repositories since Sep 2025</sub></td>
-<td align="center"><h1>10</h1><b>days</b><br/><sub>Sep 29 - Oct 8</sub></td>
-<td align="center"><h1>17</h1><b>days</b><br/><sub>Aug 24 - Sep 9</sub></td>
+<td width="33%" align="center"><h1>432</h1><b>commits</b><br/><sub>public repositories since Sep 2025</sub></td>
+<td width="33%" align="center"><h1>10</h1><b>days</b><br/><sub>Sep 29 - Oct 8</sub></td>
+<td width="33%" align="center"><h1>17</h1><b>days</b><br/><sub>Aug 24 - Sep 9</sub></td>
 </tr>
 <tr>
-<td align="center"><code>▰▰▰▰▰▰▰▰▰▰▱▱</code><br/><sub>86% of the way to 500 commits</sub></td>
-<td align="center"><code>▰▰▰▰▰▰▰▱▱▱▱▱</code><br/><sub>59% of personal best</sub></td>
-<td align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰</code><br/><sub>personal best</sub></td>
-</tr>
-<tr>
-<td colspan="3" align="center"><sub><b>LAST 30 DAYS</b> &nbsp;|&nbsp; 178 contributions on 26 active days</sub><br/><code>▂▁▄▂▂▂▁▂▂▁▂▂▄▅▂▆▂█▅▁▂▂▃▂▄▅▂▃▂▂</code></td>
+<td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱</code><br/><sub>86% of the way to 500 commits</sub></td>
+<td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱</code><br/><sub>59% of personal best</sub></td>
+<td width="33%" align="center"><code>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</code><br/><sub>100% of personal best</sub></td>
 </tr>
 </tbody>
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-844-0d9488?style=for-the-badge&labelColor=0f172a" alt="CONTRIBUTIONS: 844"/>
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-845-0d9488?style=for-the-badge&labelColor=0f172a" alt="CONTRIBUTIONS: 845"/>
 <img src="https://img.shields.io/badge/ACTIVE%20DAYS-87-d97706?style=for-the-badge&labelColor=0f172a" alt="ACTIVE DAYS: 87"/>
 <img src="https://img.shields.io/badge/BEST%20DAY-84-0d9488?style=for-the-badge&labelColor=0f172a" alt="BEST DAY: 84"/>
 </p>

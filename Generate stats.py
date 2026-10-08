@@ -98,7 +98,7 @@ SPARK = "\u2581\u2582\u2583\u2584\u2585\u2586\u2587\u2588"
 MILESTONES = [50, 100, 250, 500, 750, 1000, 1500, 2500, 5000, 7500, 10000, 25000, 50000]
 
 
-def bar(fraction, width=12):
+def bar(fraction, width=18):
     filled = round(max(0.0, min(1.0, fraction)) * width)
     return "\u25b0" * filled + "\u25b1" * (width - filled)
 
@@ -123,7 +123,6 @@ def build_block(days, commits, since, cur, longest, updated, today):
     total_contrib = sum(past.values())
     active_days = sum(1 for n in past.values() if n)
     best_day = max(past.values()) if past else 0
-    spark, last30_total, last30_active = sparkline(past, today)
 
     nxt = next((m for m in MILESTONES if m > commits), commits)
     commit_frac = commits / nxt if nxt else 1
@@ -131,8 +130,10 @@ def build_block(days, commits, since, cur, longest, updated, today):
     streak_pct = round(streak_frac * 100)
 
     def th(icon, label):
-        return (f'<th width="33%" align="center"><img src="./assets/icons/{icon}" width="20" height="20" '
-                f'align="absmiddle" alt=""/>&nbsp; {label}</th>')
+        return (f'<th width="33%" align="center">'
+                f'<img src="./assets/icons/{icon}" width="20" height="20" align="absmiddle" alt=""/>&nbsp; {label}<br/>'
+                f'<img src="./assets/spacer.svg" width="260" height="1" alt=""/>'
+                f'</th>')
 
     return f"""{START}
 <table width="100%">
@@ -145,17 +146,14 @@ def build_block(days, commits, since, cur, longest, updated, today):
 </thead>
 <tbody>
 <tr>
-<td align="center"><h1>{commits:,}</h1><b>commits</b><br/><sub>public repositories {since}</sub></td>
-<td align="center"><h1>{c_len}</h1><b>days</b><br/><sub>{fmt_range(c_a, c_b)}</sub></td>
-<td align="center"><h1>{l_len}</h1><b>days</b><br/><sub>{fmt_range(l_a, l_b)}</sub></td>
+<td width="33%" align="center"><h1>{commits:,}</h1><b>commits</b><br/><sub>public repositories {since}</sub></td>
+<td width="33%" align="center"><h1>{c_len}</h1><b>days</b><br/><sub>{fmt_range(c_a, c_b)}</sub></td>
+<td width="33%" align="center"><h1>{l_len}</h1><b>days</b><br/><sub>{fmt_range(l_a, l_b)}</sub></td>
 </tr>
 <tr>
-<td align="center"><code>{bar(commit_frac)}</code><br/><sub>{round(commit_frac * 100)}% of the way to {nxt:,} commits</sub></td>
-<td align="center"><code>{bar(streak_frac)}</code><br/><sub>{streak_pct}% of personal best</sub></td>
-<td align="center"><code>{bar(1.0)}</code><br/><sub>personal best</sub></td>
-</tr>
-<tr>
-<td colspan="3" align="center"><sub><b>LAST 30 DAYS</b> &nbsp;|&nbsp; {last30_total} contributions on {last30_active} active days</sub><br/><code>{spark}</code></td>
+<td width="33%" align="center"><code>{bar(commit_frac)}</code><br/><sub>{round(commit_frac * 100)}% of the way to {nxt:,} commits</sub></td>
+<td width="33%" align="center"><code>{bar(streak_frac)}</code><br/><sub>{streak_pct}% of personal best</sub></td>
+<td width="33%" align="center"><code>{bar(1.0)}</code><br/><sub>100% of personal best</sub></td>
 </tr>
 </tbody>
 </table>
