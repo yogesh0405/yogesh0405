@@ -111,12 +111,6 @@ High-performance code in <b>C++, Java, JavaScript & Python</b>, with system opti
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./assets/icons/icon-build.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Build</h2>
-
-<img src="./assets/workflow.svg" width="100%" alt="Workflow: Idea, Design, Build, Containerize, Deploy, Iterate"/>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <h2 align="center"><img src="./assets/icons/icon-stack.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; Tech Stack</h2>
 
 <table>
@@ -245,81 +239,7 @@ AI-powered legal document assistant that simplifies Indian legal documents using
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2 align="center"><img src="./assets/icons/icon-activity.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; GitHub Stats</h2>
-
-<!--STATS:START-->
-<table width="100%">
-<thead>
-<tr>
-<th width="33%" align="center"><img src="./assets/icons/icon-commit.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; TOTAL COMMITS<br/><img src="./assets/spacer.svg" width="260" height="1" alt=""/></th>
-<th width="33%" align="center"><img src="./assets/icons/icon-streak.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; CURRENT STREAK<br/><img src="./assets/spacer.svg" width="260" height="1" alt=""/></th>
-<th width="33%" align="center"><img src="./assets/icons/icon-trophy.svg" width="20" height="20" align="absmiddle" alt=""/>&nbsp; LONGEST STREAK<br/><img src="./assets/spacer.svg" width="260" height="1" alt=""/></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td width="33%" align="center"><h1>434</h1><b>commits</b><br/><sub>public repositories since Sep 2025</sub></td>
-<td width="33%" align="center"><h1>10</h1><b>days</b><br/><sub>Sep 29 - Oct 8</sub></td>
-<td width="33%" align="center"><h1>17</h1><b>days</b><br/><sub>Aug 24 - Sep 9</sub></td>
-</tr>
-</tbody>
-</table>
-
-<p align="center">
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-847-0d9488?style=for-the-badge&labelColor=0f172a" alt="CONTRIBUTIONS: 847"/>
-<img src="https://img.shields.io/badge/ACTIVE%20DAYS-87-d97706?style=for-the-badge&labelColor=0f172a" alt="ACTIVE DAYS: 87"/>
-<img src="https://img.shields.io/badge/BEST%20DAY-84-0d9488?style=for-the-badge&labelColor=0f172a" alt="BEST DAY: 84"/>
-</p>
-
-<p align="center"><sub>Auto-updated on Oct 8, 2026</sub></p>
-<!--STATS:END-->
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<h2 align="center"><img src="./assets/icons/icon-principles.svg" width="28" height="28" align="absmiddle" alt=""/>&nbsp; How I Work</h2>
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-<img src="./assets/icons/icon-languages.svg" width="26" height="26" alt=""/>
-<br/>
-<b>Clean Code</b>
-<br/>
-Readable, maintainable and well structured
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<img src="./assets/icons/icon-scale.svg" width="26" height="26" alt=""/>
-<br/>
-<b>Scalability</b>
-<br/>
-Systems designed to grow with users
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<img src="./assets/icons/icon-automation.svg" width="26" height="26" alt=""/>
-<br/>
-<b>Automation</b>
-<br/>
-Pipelines that remove repetitive work
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<img src="./assets/icons/icon-approach.svg" width="26" height="26" alt=""/>
-<br/>
-<b>Product Thinking</b>
-<br/>
-Building what people actually need
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
